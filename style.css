@@ -13,12 +13,16 @@ text-align: center
 }
 
 body{
-    background: #CCCCCC
+
 }
 
 
 #banner{
     width: 100%;
+}
+
+.principal{
+    background: #CCCCCC
 }
 
 em strong {
